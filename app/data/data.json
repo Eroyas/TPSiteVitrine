@@ -1,0 +1,89 @@
+{
+  "Nom" : "Eroglu",
+  "Prenom" : "Yasin",
+  "Age" : "22 ans",
+  "Lieu" : "Les Dolines - ...",
+  "Email" : "...",
+  "Numero" : "...",
+  "Nationalite" : "Française",
+  "Vehicule" : "Permis B",
+  "Presentation" : "J’ambitionne d’intégrer une école d’ingénieur pour exercer à terme le métier d’architecte réseau.",
+  "Cv" : {
+    "Parcours" : {
+      "IngenieurInformatique" : " 2015 (en cours) – Ecole d'ingénieur, informatique, Polytech Nice-Sophia – Université Nice-Sophia Antipolis",
+      "DUTInformatique" : "2014 – DUT Informatique à l’IUT d'Aix-en-Provence / Aix-Marseille Université",
+      "Baccalaureat" : "2011 – Baccalauréat scientifique, option Sciences de l’Ingénieur / Lycée Dominique Villars – Académie Aix-Marseille"
+    },
+    "CompetencesSpecialisees" : {
+      "LangagesDeProgrammationTitre" : "Langages de programmation",
+      "LangagesDeProgrammation" : "C++, JAVA, Assembleur MIPS, Shell Bash, Développement Agile",
+      "BasesDeDonneesTitre" : "Bases de données",
+      "BasesDeDonnees" : "SQL, PL/SQL, Data Mining, ACSI, Win-Design, myBalsamiq",
+      "DeveloppementWebTitre" : "Développement Web",
+      "DeveloppementWeb" : "Framework Symfony2, PHP 5, JavaScript, jQuery, Ajax, JSON, HTML 5, Twig, CSS 3, SASS, Compass, MyPhpAdmin, LAMP, WAMP",
+      "ReseauxTitre" : "Réseaux",
+      "Reseaux" : "CISCO, Ethernet, HTTP, SSH, FTP, TCP/IP, UDP, NAT/PAT, DHCP, Programmation répartie",
+      "SystemesExploitationTitre" : "Systèmes d’exploitation",
+      "SystemesExploitation" : "Linux, Windows",
+      "LogicielsTitre" : "Logiciels",
+      "Logiciels" : "Eclipse, IntelliJ, Oracle SQL Developer, Wireshark, pack Microsoft Office"
+    },
+    "CompetencesAssociees" : {
+      "LanguesTitre" : "Langues",
+      "Langues" : "Bilingues franco-turcs, Anglais technique",
+      "MathematiquesTitre" : "Mathématiques",
+      "Mathematiques" : "Cryptographie, code polynomia l, infographie, algèbre lin éaire, algèbre de Boole, probabilités, statistiques, transformation et séries de Fourier",
+      "GestionEntrepriseTitre" : "Gestion de l’entreprise",
+      "GestionEntreprise" : "Techniques comptables et financière s, environnement juridique du travail, de l’entreprise et de l’informatique",
+      "GestionProjetTitre" : "Gestion de projet",
+      "GestionProjet" : "Méthodes et principes de gestion de projet, graphe MPM, PERT, GANTT",
+      "CommunicationTitre" : "Communication",
+      "Communication" : "Technique d’expression écrite et orale, communication individuelle et en groupe, montage de dossiers, typographie, PowerPoint"
+    },
+    "Realisations" : {
+      "CTitre" : "C++",
+      "CInfo" : "Individuel – Trois semaine",
+      "C" : "Confection d’ un jeu de puissance 4 avec un maximum de possibilités d’interaction, passant par le mode IA jusqu’à l ’enregistrement de scores.",
+      "JAVATitre" : "JAVA",
+      "JAVAInfo" : "Individuel – Trois semaine",
+      "JAVA" : "Réalisation d’un jeu de démineur qui se présente sous la forme d’une fenêtre JFrame, avec interface Homme/Machine et gestion des évènements.",
+      "ReseauxTitre" : "Réseaux",
+      "ReseauxInfo" : "En binôme – 2 TP",
+      "Reseaux" : "Mise en place et configuration d’un réseau internet et intranet via un routeur CISCO, câblage, configuration des interfaces, configuration du routage statique, mise en place du NAT/PAT sur le routeur et etc.",
+      "FouilleDeDonneesTitre" : "Fouille de données",
+      "FouilleDeDonneesInfo" : "En binôme – 1 mois",
+      "FouilleDeDonnees" : "Application, sur des données concrètes, un certain nombre de méthodes de Data Mining . Avec récupération de données à partir de Twitter, extraction des motifs fréquents et des règles d’association, nettoyage des données puis restitution des connaissances via une interface Homme/Machine.",
+      "CommunicationTitre" : "Communication",
+      "CommunicationInfo" : "Quatre personnes – six mois",
+      "Communication" : "Réalisation d’un court métrage avec une recherche d’ idée, tournage et présentation devant un jury (palme d’or et meilleur soutenance).",
+      "GestionProjetTitre" : "Gestion de projet",
+      "GestionProjetInfo" : "Sept personnes – six mois",
+      "GestionProjet" : "Élaboration d’un dossier concernant la réalisation d ’un projet fictif . Conduite d’un groupe, traitement et analyse d’ une problématique précise et conception d’un projet prêt à l’exécution."
+    },
+    "Experiences" : {
+      "GinckoLab" : "2014 – Stage de fin de DUT pour une période de dix semaines à Gincko lab (Web agency) / Aix-en-Provence, France.",
+      "GinckoLabDesc" : "J'ai implémenté une application métier (outils utilisés par les employés d'une entreprise dans le but de les aider dans leur activité) Pour me remercier des efforts fourni et de l'efficacité de mon travail, j'ai été embauché pour deux mois. Une référence peut être fourni sur demande (Audrey CHARLOIS - 33 4 42 37 99 10)"
+    },
+    "Interets" : {
+      "ActualitesTitre" : " Actualités",
+      "Actualites" : "Je m'informe régulièrement sur le monde de l'informatique et des nouvelles technologies. Ceci notamment grâce à de nombreux sites comme generation-nt, journaldunet, lemonde ou via des applications mobile qui reunissent plusieurs sources.",
+      "SportTitre" : " Sport",
+      "Sport" : "Je pratique du Hand-ball niveau club mais je joue également au volley-ball en compétition universitaire et au football entre amis.",
+      "MusiqueTitre" : " Musique",
+      "Musique" : "J’écoute de la musique en tout genre, avec un goût prononcé pour le rock et l'éléctro.",
+      "SeriesTitre" : " Séries",
+      "Series" : "Je regarde de nombreuses séries durant mon temps libre, notamment Game of Trones, Walking dead ou Breaking bad.",
+      "CinemaTitre" : " Cinéma",
+      "Cinema" : "Dès que j'en ai l’occasion à la sortie d'un bon film, je ne manque pas d'aller au cinéma.",
+      "JeuxTitre" : " Jeux",
+      "Jeux" : "J'ai comme passe temps également les jeux video, comme StarCraft 2, Heroes of the storm, League of Legend et etc."
+    }
+  },
+  "Contact" : {
+    "Desc" : "Si vous désirez me faire part d'une suggestion ou d'un commentaire ou si vous avez des questions sur un sujet particulier, n'hésitez pas à me contacter. Vous pouvez utiliser le formulaire ci-dessous pour m’envoyer un message privé, je réponds dans les plus brefs délais !"
+  },
+  "Autres" : {
+    "Autre" : "Desc autre",
+    "Autres" : "Desc autres"
+  }
+}

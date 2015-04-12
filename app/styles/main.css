@@ -1,0 +1,197 @@
+/* LE BODY
+-------------------------------------------------- */
+
+body {
+  padding-top: 50px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #5a5a5a;
+  background: url("/images/fond.jpg");
+}
+
+.pull-right {
+  float: right;
+}
+
+#presentation {
+  text-align: center;
+}
+
+#contactDesc {
+  padding-top: 20px;
+}
+
+.tab {
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+
+.tab td {
+  padding: 8px;
+  vertical-align: top;
+  border: #3399CC 2px solid;
+}
+
+/* LA NAVBAR
+-------------------------------------------------- */
+
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+
+.navbar-wrapper .container {
+  padding-right: 0;
+  padding-left: 0;
+}
+.navbar-wrapper .navbar {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+/* LE CAROUSEL
+-------------------------------------------------- */
+
+.carousel {
+  height: 500px;
+  margin-bottom: 60px;
+}
+
+.carousel-caption {
+  z-index: 10;
+}
+
+.carousel .item {
+  height: 500px;
+  background-color: #777;
+}
+
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+}
+
+/* MARKETING
+-------------------------------------------------- */
+
+.marketing {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.marketing h2 {
+  font-weight: normal;
+}
+
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+/* FEATUREETTES
+------------------------- */
+
+.featurette-divider {
+  margin: 80px 0;
+}
+
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+
+  .marketing {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .navbar-wrapper {
+    margin-top: 20px;
+  }
+
+  .navbar-wrapper .container {
+    padding-right: 15px;
+    padding-left:  15px;
+  }
+
+  .navbar-wrapper .navbar {
+    padding-right: 0;
+    padding-left:  0;
+  }
+
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+
+  .carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 120px;
+  }
+}
+
+/* MON FOOTER
+-------------------------------------------------- */
+
+footer {
+  width: 100%;
+  height: 200px;
+  background-image: url(/images/fond_footer.jpg);
+  box-shadow: 0px 5px 10px black;
+  border-radius: 5px 5px 0px 0px;
+  font-size: 0.8em;
+}
+
+#haut_footer {
+  width: 100%;
+  height: 25px;
+  background-image: url(/images/haut_footer.png);
+  box-shadow: 0px 10px 50px 10px black;
+  border-radius: 5px 5px 0px 0px;
+}
+
+#corps_footer {
+  width: 100%;
+  height: 150px;
+  margin-top: 30px;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#copyright {
+  color: grey;
+  text-align: center;
+}
+
+#icone_sociaux {
+  text-align: right;
+}
